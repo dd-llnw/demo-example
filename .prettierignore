@@ -1,0 +1,6 @@
+.next
+.layer0
+node_modules
+.swc
+dist
+build
